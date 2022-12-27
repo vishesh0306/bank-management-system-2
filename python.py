@@ -1,4 +1,4 @@
 print("github is op")
 print()
-print("gaand fatt gyi git seekhne m")
+print("halat kharab ho gyi git seekhne m")
 print("zindagi jhand hai")
